@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="YConnect Authorization Code Sample/src"/>
+	<classpathentry kind="lib" path="YConnect Authorization Code Sample/libs/jp.co.yahoo.yconnect-1.0.1.jar"/>
+	<classpathentry kind="lib" path="YConnect Authorization Code Sample/libs/jp.co.yahoo.yconnect.core-1.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
