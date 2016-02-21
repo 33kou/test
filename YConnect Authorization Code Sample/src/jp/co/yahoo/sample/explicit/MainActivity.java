@@ -15,7 +15,7 @@ import android.widget.Button;
  */
 public class MainActivity extends Activity implements OnClickListener {
 //ä¸‰æ¾¤è¦‹ã¾ã—ãŸ
-	//‚ ‚ ‚³‚„‚“‚„
+	//é«˜æ©‹takahasi
 	private Button btn;
 
     @Override
